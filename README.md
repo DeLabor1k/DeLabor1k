@@ -23,7 +23,7 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeLabor&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeLabor1k&theme=radical">
 </p>
 
 ---
