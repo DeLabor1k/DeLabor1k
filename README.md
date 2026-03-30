@@ -10,7 +10,7 @@
 
 🧑‍💻 18 y.o. C# developer.
 
-🇷🇺 Based in Russia.
+🇷🇺 Based in Russia(Novosibirs).
 
 🎮 Game enthusiast and creator.
 
