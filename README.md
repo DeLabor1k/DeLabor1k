@@ -18,4 +18,18 @@
 
 “Code is like a game — you just have to find the right solution to beat the level.”
 
+---
 
+<h3 align="left">♠️ GitHub Statistics:</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeLabor&theme=radical">
+</p>
+
+---
+
+<h3 align="left">♠️ LeetCode Statistics:</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DeLabor?theme=dark&font=Source%20Code%20Pro">
+</p>
