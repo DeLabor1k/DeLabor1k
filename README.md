@@ -10,11 +10,11 @@
 
 🧑‍💻 18 y.o. C# developer.
 
-🇷🇺    Based in Russia(Novosibirs).
+🇷🇺 ⠀⠀⠀Based in Russia(Novosibirs).
 
-🎮    Game enthusiast and creator.
+🎮⠀⠀⠀Game enthusiast and creator.
 
-📚    Currently learning: .NET Core and Unity.
+📚⠀⠀⠀Currently learning: .NET Core and Unity.
 
 “Code is like a game — you just have to find the right solution to beat the level.”
 
