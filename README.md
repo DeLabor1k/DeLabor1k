@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="left">♠️ GitHub Statistics:</h3>
+<h3 align="left">📊 GitHub Statistics:</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeLabor&theme=radical">
